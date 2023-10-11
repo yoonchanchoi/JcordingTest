@@ -24,7 +24,6 @@ public class Solution {
 
         for(int i = 0 ;i< answer.length;i++){
             Log.e("cyc",String.format("answer[%d]-->%d",i,answer[i]));
-
         }
 
 

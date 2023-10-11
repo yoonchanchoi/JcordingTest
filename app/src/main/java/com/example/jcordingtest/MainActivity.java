@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.jcordingtest.추억점수.Solution;
+import com.example.jcordingtest.명예의전당1.Solution1;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void init(){
-        Solution st = new Solution();
-        st.main();
+        Solution1 st1 = new Solution1();
+        st1.main();
     }
 }

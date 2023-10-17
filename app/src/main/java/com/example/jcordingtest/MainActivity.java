@@ -3,12 +3,9 @@ package com.example.jcordingtest;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.util.Log;
 
-import com.example.jcordingtest.명예의전당1.Solution1;
+import com.example.jcordingtest.기사단원의무기.Solution5;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -20,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void init(){
-        Solution1 st1 = new Solution1();
+        Solution5 st1 = new Solution5();
         st1.main();
     }
 }

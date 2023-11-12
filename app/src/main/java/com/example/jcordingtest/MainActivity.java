@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.example.jcordingtest.기사단원의무기.Solution5;
+import com.example.jcordingtest.단계1.기사단원의무기.Solution5;
 
 
 public class MainActivity extends AppCompatActivity {
